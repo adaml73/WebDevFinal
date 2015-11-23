@@ -1,0 +1,53 @@
+body { margin-top: 2em;
+       margin-bottom: 5em;
+       margin-left: 2em;
+       margin-right: 2em;
+       background-color: #FFFFFF;
+       font-family: helvetica, arial, webdings;
+
+     }
+
+main { margin-top: 2em;
+       margin-bottom: 5em;
+       margin-left: 2em;
+       margin-right: 2em;
+       background-color: #FFFFFF;
+       font-family: helvetica, arial, webdings;
+     }
+
+header { background-color: #000000;
+         background-repeat: no-repeat;
+         background-position: center;
+         height: 80px;
+         font-family: helvetica, arial, webdings;
+       }
+#header {  margin-right: auto;
+           margin-left: auto;
+           border-style: solid;
+           min-width: 700px;
+           max-width: 1024px;
+           box-shadow: 5px 5px 5px #000000;
+           font-family: helvetica, arial, webdings;
+
+         }
+
+h1     { color: #000000;
+         background-color: #FFFFFF;
+         text-align: center;
+         font-family: helvetica, arial, webdings;
+        }
+h2     { color: #000000;
+         background-color: #FFFFFF;
+         text-align: center;
+         font-family: helvetica, arial, webdings;
+       }
+h3     { color: #000000;
+         background-color: #FFFFFF;
+         text-align: center;
+         font-family: helvetica, arial, webdings;
+       }
+p      { color: #000000;
+         background-color: #FFFFFF;
+         text-align: center;
+         font-family: helvetica, arial, webdings;
+        }
