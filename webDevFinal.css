@@ -26,7 +26,7 @@ header {
           text-align: center;
           }
 nav {
-  
+
   position: relative;
   padding: em;
   float: left;
@@ -44,7 +44,7 @@ nav ul li {
   font-family: helvetica, arial, fantasy;
   line-height: 1em;
   vertical-align: middle;
-  width: 90px; 
+  width: 90px;
   height: 30px;
   margin-top: 2px;
   background-color: #CCC;
@@ -86,5 +86,3 @@ footer {
   display: block;
 
 }
-
-  
